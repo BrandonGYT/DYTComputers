@@ -1,0 +1,72 @@
+{
+  e
+    "ID": 1,
+    "Nombre": "Bulbasaur",
+    "Tipo": "Planta",
+    "Habilidades": "Espesura, Clorofila",
+    "Movimientos": "Placaje, Látigo Cepa, Hoja Afilada"
+  },
+  "2": {
+    "ID": 2,
+    "Nombre": "Charmander",
+    "Tipo": "Fuego",
+    "Habilidades": "Mar Llamas, Poder Solar",
+    "Movimientos": "Arañazo, Ascuas, Lanzallamas"
+  },
+  "3": {
+    "ID": 3,
+    "Nombre": "Squirtle",
+    "Tipo": "Agua",
+    "Habilidades": "Torrente, Cura Lluvia",
+    "Movimientos": "Placaje, Pistola Agua, Hidrobomba"
+  },
+  "4": {
+    "ID": 4,
+    "Nombre": "Pikachu",
+    "Tipo": "Eléctrico",
+    "Habilidades": "Estática, Pararrayos",
+    "Movimientos": "Ataque Rápido, Rayo, Placaje Eléctrico"
+  },
+  "5": {
+    "ID": 5,
+    "Nombre": "Jigglypuff",
+    "Tipo": "Normal",
+    "Habilidades": "Gran Encanto, Competitivo",
+    "Movimientos": "Destructor, Canto, Vozarrón"
+  },
+  "6": {
+    "ID": 6,
+    "Nombre": "Eevee",
+    "Tipo": "Normal",
+    "Habilidades": "Fuga, Adaptable",
+    "Movimientos": "Placaje, Ataque Rápido, Última Baza"
+  },
+  "7": {
+    "ID": 7,
+    "Nombre": "Magikarp",
+    "Tipo": "Agua",
+    "Habilidades": "Nado Rápido, Cobardía",
+    "Movimientos": "Salpicadura, Placaje, Azote"
+  },
+  "8": {
+    "ID": 8,
+    "Nombre": "Geodude",
+    "Tipo": "Roca",
+    "Habilidades": "Cabeza Roca, Robustez",
+    "Movimientos": "Placaje, Lanzarrocas, Terremoto"
+  },
+  "9": {
+    "ID": 9,
+    "Nombre": "Snorlax",
+    "Tipo": "Normal",
+    "Habilidades": "Inmunidad, Grasa Gruesa",
+    "Movimientos": "Placaje, Descanso, Golpe Cuerpo"
+  },
+  "10": {
+    "ID": 10,
+    "Nombre": "Dragonite",
+    "Tipo": "Dragón",
+    "Habilidades": "Foco Interno, Multiescama",
+    "Movimientos": "Furia Dragón, Danza Dragón, Enfado"
+  }
+}
