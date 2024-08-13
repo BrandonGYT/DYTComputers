@@ -1,12 +1,12 @@
 CREATE TABLE IF NOT EXISTS Pokemon (
-    ID INT NOT NULL AUTO_INCREMENT,
+    Id INT NOT NULL AUTO_INCREMENT,
     Nombre VARCHAR(100) NOT NULL,
     Tipo VARCHAR(100) NOT NULL,
     Habilidades VARCHAR(100) NOT NULL,
     Movimientos VARCHAR(200) NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-    PRIMARY KEY (ID)
+    PRIMARY KEY (Id)
 );
 
 INSERT INTO Pokemon (Nombre, Tipo, Habilidades, Movimientos) VALUES
@@ -21,5 +21,3 @@ INSERT INTO Pokemon (Nombre, Tipo, Habilidades, Movimientos) VALUES
 ('Geodude',     'Roca',         'Cabeza Roca, Robustez',        'Placaje, Lanzarrocas, Terremoto'),
 ('Snorlax',     'Normal',       'Inmunidad, Grasa Gruesa',      'Placaje, Descanso, Golpe Cuerpo'),
 ('Dragonite',   'Dragón',       'Foco Interno, Multiescama',    'Furia Dragón, Danza Dragón, Enfado');
-
-
